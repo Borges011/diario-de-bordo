@@ -1,2 +1,3 @@
-# diario-de-bordo
-Meu diário de aprendizagem e atividades das aulas.
+# Diário de Bordo
+Esse é meu diário de aprendizagem, onde registro meus conhecimentos, descobertas e atividades realizadas durante as aulas. Aqui compartilho minha evolução e tudo que estou aprendendo ao longo do curso.
+## Aulas
